@@ -1,7 +1,3 @@
-Perfect — let’s make sure you can **run your Music Store Management System** smoothly on your computer.
-Here’s a **step-by-step setup and run guide** (works on Windows, macOS, or Linux).
-
----
 
 ## 🎵 Step 1: Folder Structure
 
