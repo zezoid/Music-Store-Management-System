@@ -1,0 +1,21 @@
+# ---- Core Web Framework ----
+Flask==3.0.3
+
+# ---- Database Driver ----
+PyMySQL==1.1.1
+SQLAlchemy==2.0.25
+
+# ---- HTML Rendering / Templating ----
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+
+# ---- Utility Libraries ----
+Werkzeug==3.0.3
+itsdangerous==2.1.2
+click==8.1.7
+
+# ---- Environment / OS Helpers ----
+python-dotenv==1.0.1
+
+# ---- Optional: For Data Analysis / Reports (if using CSV exports or charts) ----
+pandas==2.2.3
